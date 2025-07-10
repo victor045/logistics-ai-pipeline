@@ -1,0 +1,11 @@
+
+pandas
+prophet
+streamlit
+apache-airflow
+scikit-learn
+matplotlib
+pyyaml
+ortools
+
+
